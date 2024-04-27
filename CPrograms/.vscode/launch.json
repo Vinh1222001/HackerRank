@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "v:/Code/Practices/HackerRank_problems/HackerRank/CPrograms/Arrays_and_Strings",
-      "program": "v:/Code/Practices/HackerRank_problems/HackerRank/CPrograms/Arrays_and_Strings/build/Debug/outDebug",
+      "cwd": "v:/Codefile/HackerRank/CPrograms/Arrays_and_Strings",
+      "program": "v:/Codefile/HackerRank/CPrograms/Arrays_and_Strings/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

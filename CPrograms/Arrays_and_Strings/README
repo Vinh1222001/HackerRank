@@ -1,0 +1,5 @@
+    I submited this problem 3 times and failed at all. I tried to reallocate memory
+for total_number_of_pages[x] every inserting new book into the shelve. It maybe failed 
+because the system hasn't enough memory for allocating. So, I searched solutions in discussion section.
+The solution is very simple, I just allocate 1100*sizeof(int) byte for each total_number_of_pages right from
+the start. It help the system prepare enough memory for total_number_of_pages.   
