@@ -1,0 +1,19 @@
+{
+    "problem": {
+        "id":"5",
+        "name":"Sorting Array of Strings",
+        "unittest":{
+            "test_case_len": 2,
+            "test_cases":[
+                {
+                    "input": "./test_cases/tc_1_input.txt",
+                    "output":"./test_cases/tc_1_output_expect.txt"
+                },
+                {
+                    "input": "./test_cases/tc_2_input.txt",
+                    "output":"./test_cases/tc_2_output_expect.txt"
+                }
+            ]
+        }
+    }
+}
